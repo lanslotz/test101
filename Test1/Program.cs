@@ -6,7 +6,10 @@ namespace Test1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!"); //this is a comment
+            //this is a comment
+            Console.WriteLine("Hello World!!!"); 
+
+            // Display another message
             Console.WriteLine("BTC to the moon");
         }
     }
